@@ -6,6 +6,9 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=600&lines=Building+cool+things+on+the+web+%F0%9F%8C%90;MERN+Stack+%7C+Web3+%7C+Solidity+%F0%9F%94%A5;195%2B+repos+and+counting...+%F0%9F%9A%80;Always+shipping%2C+always+learning+%F0%9F%92%AA" alt="Typing SVG" /></a>
 
+
+### 🔗 [Visit My Portfolio →](https://ysongh.netlify.app/)
+
 <br/>
 
 <!-- SOCIAL BADGES -->
